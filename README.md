@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Jakub Tober
 - 👀 I’m interested in Frontend Develeopment
-- 🌱 I’m currently learning HTML, CSS, Javascript, React, Redux 
+- 🌱 I’m currently learning HTML, CSS, Javascript, React, Redux, Router
